@@ -1,0 +1,26 @@
+Real balloon recording: "balloon movement sounds" by Yuval.
+https://freesound.org/people/Yuval/sounds/210892/
+License: CC0 1.0 / public domain. https://creativecommons.org/publicdomain/zero/1.0/
+Edited: short excerpts, high-pass filter, normalization, fades.
+[
+  {
+    "file": "dist/audio/latex-1.wav",
+    "source_offset_seconds": 88.75,
+    "duration": 0.83,
+    "peak": 20000
+  },
+  {
+    "file": "dist/audio/latex-2.wav",
+    "source_offset_seconds": 131.25,
+    "duration": 0.83,
+    "peak": 20000
+  },
+  {
+    "file": "dist/audio/latex-3.wav",
+    "source_offset_seconds": 142.5,
+    "duration": 0.83,
+    "peak": 20000
+  }
+]
+
+Pop: Balloon pop by Gniffelbaf, edited by AntumDeluge. CC0. https://opengameart.org/content/balloon-sounds
